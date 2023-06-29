@@ -1,4 +1,4 @@
-# discord-bot-website
+# DayaMaths nls-website
 This template created by Raghavendra Pratap Singh, all right reserved.
 
 # Links;
